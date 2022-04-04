@@ -1,0 +1,10 @@
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/ExtensionMethods/bin/Debug/netcoreapp3.1/ExtensionMethods.deps.json
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/ExtensionMethods/bin/Debug/netcoreapp3.1/ExtensionMethods.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/ExtensionMethods/bin/Debug/netcoreapp3.1/ExtensionMethods.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.csproj.AssemblyReference.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.AssemblyInfoInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.AssemblyInfo.cs
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.csproj.CoreCompileInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.pdb

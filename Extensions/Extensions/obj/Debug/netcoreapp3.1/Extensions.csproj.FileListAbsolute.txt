@@ -1,0 +1,16 @@
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/Extensions/bin/Debug/netcoreapp3.1/Extensions.deps.json
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/Extensions/bin/Debug/netcoreapp3.1/Extensions.runtimeconfig.json
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/Extensions/bin/Debug/netcoreapp3.1/Extensions.runtimeconfig.dev.json
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/Extensions/bin/Debug/netcoreapp3.1/Extensions.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/Extensions/bin/Debug/netcoreapp3.1/Extensions.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/Extensions/bin/Debug/netcoreapp3.1/ExtensionMethods.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/Extensions/bin/Debug/netcoreapp3.1/ExtensionMethods.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/Extensions/obj/Debug/netcoreapp3.1/Extensions.csproj.AssemblyReference.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/Extensions/obj/Debug/netcoreapp3.1/Extensions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/Extensions/obj/Debug/netcoreapp3.1/Extensions.AssemblyInfoInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/Extensions/obj/Debug/netcoreapp3.1/Extensions.AssemblyInfo.cs
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/Extensions/obj/Debug/netcoreapp3.1/Extensions.csproj.CoreCompileInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/Extensions/obj/Debug/netcoreapp3.1/Extensions.csproj.CopyComplete
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/Extensions/obj/Debug/netcoreapp3.1/Extensions.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/Extensions/obj/Debug/netcoreapp3.1/Extensions.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsStaticKeywordAndExtensions/Extensions/Extensions/obj/Debug/netcoreapp3.1/Extensions.genruntimeconfig.cache

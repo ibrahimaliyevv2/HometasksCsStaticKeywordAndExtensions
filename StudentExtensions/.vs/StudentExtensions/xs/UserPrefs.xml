@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{96AB735A-F366-4B43-BAE8-4AA0713EF357}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassLibrary/ExtensionMethods.cs">
+    <Files>
+      <File FileName="StudentExtensions/Program.cs" Line="16" Column="55" />
+      <File FileName="ClassLibrary/ExtensionMethods.cs" Line="3" Column="2" />
+      <File FileName="ClassLibrary/Student.cs" Line="11" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StudentExtensions" expanded="True">
+            <Node name="ClassLibrary" expanded="True">
+              <Node name="Student.cs" selected="True" />
+            </Node>
+            <Node name="StudentExtensions" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StudentExtensions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>ExtensionMethods/ClassLibrary.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
